@@ -6,4 +6,4 @@ Collection of online resources related to LU
 
 ## Defunct Resources
 
-- <https://lunibook.net>: Forum & Game database similar to NexusHQ and LU-Explorer
+- <https://lunibook.com>: Forum & Game database similar to NexusHQ and LU-Explorer
